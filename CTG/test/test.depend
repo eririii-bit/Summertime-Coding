@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742186917 source:c:\c projects\ctg\test\main.cpp
+	<iostream>
+	<thread>
+	<chrono>
+
